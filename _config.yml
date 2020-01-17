@@ -64,3 +64,5 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
+  - name: Actions for Discord
+  uses: Ilshidur/action-discord@0.0.2
